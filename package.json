@@ -1,0 +1,11 @@
+{
+  "name": "web2videolol",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Matti Paksula",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs": "x",
+    "mdns": "x"
+  }
+}
